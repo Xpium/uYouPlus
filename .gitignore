@@ -4,7 +4,6 @@ packages/
 tmp/
 Tweaks/uYou/*
 !Tweaks/uYou/.gitkeep
-!Tweaks/uYou/*.deb
 Resources/
 *.ipa
 .vscode
